@@ -1,11 +1,18 @@
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
-C:\Users\student.MCK-KTITS\Documents\git repos\Ermovael and Semenov\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\student.MCK-KTITS\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
