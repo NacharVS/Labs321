@@ -1,0 +1,11 @@
+C:\Users\ruste\source\repos\massa\massa\obj\Debug\netcoreapp3.1\massa.csprojAssemblyReference.cache
+C:\Users\ruste\source\repos\massa\massa\obj\Debug\netcoreapp3.1\massa.AssemblyInfoInputs.cache
+C:\Users\ruste\source\repos\massa\massa\obj\Debug\netcoreapp3.1\massa.AssemblyInfo.cs
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.exe
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.deps.json
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.runtimeconfig.json
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.runtimeconfig.dev.json
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.dll
+C:\Users\ruste\source\repos\massa\massa\bin\Debug\netcoreapp3.1\massa.pdb
+C:\Users\ruste\source\repos\massa\massa\obj\Debug\netcoreapp3.1\massa.dll
+C:\Users\ruste\source\repos\massa\massa\obj\Debug\netcoreapp3.1\massa.pdb
