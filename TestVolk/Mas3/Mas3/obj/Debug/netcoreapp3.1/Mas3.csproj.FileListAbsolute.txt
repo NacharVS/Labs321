@@ -1,0 +1,11 @@
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.exe
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.deps.json
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.runtimeconfig.json
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.runtimeconfig.dev.json
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.dll
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\bin\Debug\netcoreapp3.1\Mas3.pdb
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\obj\Debug\netcoreapp3.1\Mas3.csprojAssemblyReference.cache
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\obj\Debug\netcoreapp3.1\Mas3.AssemblyInfoInputs.cache
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\obj\Debug\netcoreapp3.1\Mas3.AssemblyInfo.cs
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\obj\Debug\netcoreapp3.1\Mas3.dll
+C:\Users\student.MCK-KTITS\source\repos\Mas3\Mas3\obj\Debug\netcoreapp3.1\Mas3.pdb
